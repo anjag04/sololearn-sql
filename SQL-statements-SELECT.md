@@ -4,14 +4,4 @@ complete the command to list all of the databases.
 
 **SHOW** **DATABASES**
 
----
-SQL
----
-
----
-SELECT
----
-
---- 
-GO
----
+`SQL`   `SELECT`    `GO`
