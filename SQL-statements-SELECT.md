@@ -2,6 +2,6 @@
 
 complete the command to list all of the databases.
 
-<u>SHOW</u> <u>DATABASES</u>
+<ins>SHOW</ins> <ins>DATABASES</ins>
 
 `SQL`   `SELECT`    `GO`
