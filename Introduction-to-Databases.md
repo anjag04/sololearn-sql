@@ -2,16 +2,16 @@
 
 Which of the following is true about a database?
 
--[] A database is a programming Language
--[x] A database is a collection of data
+- [] A database is a programming Language
+- [x] A database is a collection of data
 
 # Database Tables
 
 Tables are made up of:
 
--[] Rows, but no columns
--[] Columns only
--[x] Columns and rows
+- [] Rows, but no columns
+- [] Columns only
+- [x] Columns and rows
 
 # Primary Keys
 
