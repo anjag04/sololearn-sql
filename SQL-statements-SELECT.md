@@ -15,6 +15,17 @@ SHOW    <ins>TABLES</ins>
 Drag and drop from the options below to view the columns from the 'customers' table:
 
 <ins>SHOW</ins> COLUMNS
+
 <ins>FROM</ins> customers
 
 `DISPLAY`   `TABLE` `VIEW`
+
+Rearrange the code to select the ''name'' column values from the ''customers'' table.
+
+`SELECT`
+
+`name`
+
+`FROM`
+
+`customers`
