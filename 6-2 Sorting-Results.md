@@ -7,7 +7,7 @@ Here is the table of **Players**:
 |-|-|-|
 |Hikaru|Nakamura|0|
 |Magnus|Karlsen|2|
-|Weslet|So|3|
+|Wesley|So|3|
 |Levon|Aronian|3|
 |Haik|Martirosian|1|
 |Vladamir|Fedoseev|1|
