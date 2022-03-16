@@ -1,4 +1,4 @@
-#Multiple Queries
+# Multiple Queries
 
 Whenever you run multiple queries:
 
@@ -7,3 +7,11 @@ Whenever you run multiple queries:
 `You only get the last query's result`
 
 **`Each query must end with a semicolon`**
+
+# Case Senitivity
+
+SQL is:
+
+**`Case Insensitive`**
+
+`Case sensitive`
