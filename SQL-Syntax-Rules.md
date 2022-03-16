@@ -15,3 +15,9 @@ SQL is:
 **`Case Insensitive`**
 
 `Case sensitive`
+
+# Syntax Rules
+
+- [x] Whitespaces and line breaks are ignored
+- [ ] Whitespaces affect query results
+- [ ] Line breaks divide a query into multiple queries
